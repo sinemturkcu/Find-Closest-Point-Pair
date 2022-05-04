@@ -25,5 +25,5 @@ then the output should be : (2, 2) - (1, 1) = 1.414214
 - The output must show the closest pair of points and the distance between them in the given format in example.
 - The formula to compute distance between two points a=(x1,y1) and b=( x2,y2) is
 𝑑𝑖𝑠𝑡𝑎𝑛𝑐𝑒=√(𝑥2−𝑥1)2+ (𝑦2−𝑦1)2
-- Your algorithm must fit into the divide-and-conquer strategy.
+- My algorithm  fit into the divide-and-conquer strategy.
 - The running time should be Θ(n⋅logn) where n is the number of points.
